@@ -26,12 +26,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/partialView-projeto/PartialView/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[C:/partialView-projeto/PartialView/Views/Home/_olaMundo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfb2xhTXVuZG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/partialView-projeto/PartialView/Views/Shared/_olaMundo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9vbGFNdW5kby5jc2h0bWw=
+[C:/partialView-projeto/PartialView/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/partialView-projeto/PartialView/Views/Shared/_ValidationScriptsPartial.cshtml]

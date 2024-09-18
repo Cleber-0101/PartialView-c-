@@ -3,7 +3,10 @@
 }
 
 <div class="text-center">
-   <div id="apontandoPraTela"></div>
+   <div id="apontandoPraTela" style="border: 2px solid black:   ">teste 1</div>
+      <div id="apontandoPraTela" style="border: 2px solid black: ">teste 2</div>
+   <div id="apontandoPraTela" style="border: 2px solid black:">teste 3</div>
+
 </div>
 
 <script>
@@ -11,7 +14,7 @@
         type: 'GET',
         url: 'Home/praticaControleView'
         success: (response) => {
-            $(#apontandoPraTela).html(response)
+            $('apontandoPraTela').html(response)
         },
         error: (response) => {
             console.log(JSON.stringify(response))
