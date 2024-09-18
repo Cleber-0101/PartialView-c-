@@ -1,9 +1,11 @@
-C:\partialView-projeto\PartialView\bin\Debug\net8.0\NomeDoSeuProjeto.exe
-C:\partialView-projeto\PartialView\bin\Debug\net8.0\NomeDoSeuProjeto.dll
-C:\partialView-projeto\PartialView\bin\Debug\net8.0\NomeDoSeuProjeto.pdb
 C:\partialView-projeto\PartialView\bin\Debug\net8.0\appsettings.Development.json
 C:\partialView-projeto\PartialView\bin\Debug\net8.0\appsettings.json
 C:\partialView-projeto\PartialView\bin\Debug\net8.0\NomeDoSeuProjeto.staticwebassets.runtime.json
+C:\partialView-projeto\PartialView\bin\Debug\net8.0\NomeDoSeuProjeto.exe
+C:\partialView-projeto\PartialView\bin\Debug\net8.0\NomeDoSeuProjeto.deps.json
+C:\partialView-projeto\PartialView\bin\Debug\net8.0\NomeDoSeuProjeto.runtimeconfig.json
+C:\partialView-projeto\PartialView\bin\Debug\net8.0\NomeDoSeuProjeto.dll
+C:\partialView-projeto\PartialView\bin\Debug\net8.0\NomeDoSeuProjeto.pdb
 C:\partialView-projeto\PartialView\obj\Debug\net8.0\NomeDoSeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
 C:\partialView-projeto\PartialView\obj\Debug\net8.0\NomeDoSeuProjeto.AssemblyInfoInputs.cache
 C:\partialView-projeto\PartialView\obj\Debug\net8.0\NomeDoSeuProjeto.AssemblyInfo.cs
@@ -25,7 +27,5 @@ C:\partialView-projeto\PartialView\obj\Debug\net8.0\scopedcss\projectbundle\Nome
 C:\partialView-projeto\PartialView\obj\Debug\net8.0\NomeDoSeuProjeto.dll
 C:\partialView-projeto\PartialView\obj\Debug\net8.0\refint\NomeDoSeuProjeto.dll
 C:\partialView-projeto\PartialView\obj\Debug\net8.0\NomeDoSeuProjeto.pdb
-C:\partialView-projeto\PartialView\bin\Debug\net8.0\NomeDoSeuProjeto.deps.json
-C:\partialView-projeto\PartialView\bin\Debug\net8.0\NomeDoSeuProjeto.runtimeconfig.json
 C:\partialView-projeto\PartialView\obj\Debug\net8.0\NomeDoSeuProjeto.genruntimeconfig.cache
 C:\partialView-projeto\PartialView\obj\Debug\net8.0\ref\NomeDoSeuProjeto.dll
