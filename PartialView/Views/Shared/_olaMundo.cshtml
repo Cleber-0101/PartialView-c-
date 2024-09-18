@@ -1,0 +1,18 @@
+@model PartialView.Models.ListaDeModel
+
+<ul>
+    @foreach(var euTeste in Model.listaDoModel)
+    {
+       <li>
+          <span style="color: @Model.corPrimaria; font-size: 45px">
+                @euTeste.nome
+          </span>
+           <span style="color: @Model.corSecundaria; font-size: 50px">
+                @euTeste.idade
+           </span>
+           <span style="color: @Model.corPrimaria; font-size: 19px;" >
+                @euTeste.emailTesteCleber
+           </span>
+       </li>
+    }
+</ul>

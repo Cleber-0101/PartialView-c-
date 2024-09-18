@@ -28,3 +28,4 @@ C:\partialView-projeto\PartialView\obj\Debug\net8.0\refint\NomeDoSeuProjeto.dll
 C:\partialView-projeto\PartialView\obj\Debug\net8.0\NomeDoSeuProjeto.pdb
 C:\partialView-projeto\PartialView\obj\Debug\net8.0\NomeDoSeuProjeto.genruntimeconfig.cache
 C:\partialView-projeto\PartialView\obj\Debug\net8.0\ref\NomeDoSeuProjeto.dll
+C:\partialView-projeto\PartialView\obj\Debug\net8.0\NomeDoSeuProjeto.sourcelink.json

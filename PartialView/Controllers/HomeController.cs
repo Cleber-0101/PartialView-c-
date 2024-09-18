@@ -23,6 +23,12 @@ public class HomeController : Controller
         return View();
     }
 
+    [HttpGet]
+    public IActionResult praticaControlerView()
+    {
+        var listaDemodelPartialView = new List<>
+    }
+
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {
