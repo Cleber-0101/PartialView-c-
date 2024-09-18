@@ -33,19 +33,26 @@ public class HomeController : Controller
         var InstanciandoModel = new Model();
         InstanciandoModel.nome = "cleber";
         InstanciandoModel.idade = 24;
-        InstanciandoModel.email = "Cleber@hdsdfsdfsdf.com";  
+        InstanciandoModel.email = "veles@hotmail.com";  
         listaModelObject.Add(InstanciandoModel);
 
         var InstanciandoLista2 = new Model();
-        InstanciandoLista2.nome = "na";
+        InstanciandoLista2.nome = "magal";
         InstanciandoLista2.idade = 54;
-        InstanciandoLista2.email = "Clçejkwbekbsw@adfsadfs.com";
+        InstanciandoLista2.email = "magal@hotmail.com";
         listaModelObject.Add(InstanciandoLista2);
 
+          var InstanciandoLista3 = new Model();
+        InstanciandoLista3.nome = "evandro";
+        InstanciandoLista3.idade = 54;
+        InstanciandoLista3.email = "evandro@hotmail.com";
+        listaModelObject.Add(InstanciandoLista3);
+
         var listandoObjetosAgora = new ListaDeModel();
-        listandoObjetosAgora.cor = "blue";
-        listandoObjetosAgora.displaycss = "inline-block";
-        return PartialView("_olaMundo" ,listandoObjetosAgora);
+        listandoObjetosAgora.cor = "black";
+        listandoObjetosAgora.displayCSS = "inline-block";
+        listandoObjetosAgora.lista = listaModelObject;
+        return PartialView("_olaMundo", listandoObjetosAgora);
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

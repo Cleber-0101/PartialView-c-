@@ -1,20 +1,19 @@
-﻿@{
+﻿
+@{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="text-center">
-   <div id="apontandoPraTela" style="border: 2px solid black:   ">teste 1</div>
-      <div id="apontandoPraTela" style="border: 2px solid black: ">teste 2</div>
-   <div id="apontandoPraTela" style="border: 2px solid black:">teste 3</div>
-
+    <h1>formulario de Cadastro</h1>
+   <div id="tela" style="border: 2px solid red"></div>
 </div>
 
 <script>
-    $.ajax ({
+    $.ajax({
         type: 'GET',
-        url: 'Home/praticaControleView'
+        url: 'Home/praticaControlerView',
         success: (response) => {
-            $('apontandoPraTela').html(response)
+            $('#tela').html(response)
         },
         error: (response) => {
             console.log(JSON.stringify(response))

@@ -1,0 +1,18 @@
+@model PartialView.Models.ListaDeModel
+
+<ul>
+    @foreach(var userCleber in Model.lista)
+    {
+       <li>
+          <span style="color: @Model.cor; font-size: 12px; margin: 10px; display: @Model.displayCSS ">
+                @userCleber.nome
+          </span>
+           <span style="color: @Model.cor; font-size: 12px; margin: 10px; display: @Model.displayCSS ">
+                @userCleber.idade
+           </span>
+           <span style="color: @Model.cor; font-size: 12px; margin: 10px; display: @Model.displayCSS">
+                @userCleber.email
+           </span>
+       </li>
+    }
+</ul>
